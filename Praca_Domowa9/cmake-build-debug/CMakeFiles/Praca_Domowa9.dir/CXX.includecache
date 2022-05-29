@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/PJC/Praca_Domowa9/main.cpp
+iostream
+-
+vector
+-
+string
+-
+student.hpp
+C:/Users/user/Desktop/PJC/Praca_Domowa9/student.hpp
+operations.hpp
+C:/Users/user/Desktop/PJC/Praca_Domowa9/operations.hpp
+
+C:/Users/user/Desktop/PJC/Praca_Domowa9/operations.hpp
+
+C:/Users/user/Desktop/PJC/Praca_Domowa9/student.hpp
+string
+-
+
