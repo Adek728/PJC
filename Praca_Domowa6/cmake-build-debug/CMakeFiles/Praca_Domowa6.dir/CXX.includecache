@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/PJC/Praca_Domowa6/loud_int.hpp
+vector
+-
+algorithm
+-
+ctime
+-
+
+C:/Users/user/Desktop/PJC/Praca_Domowa6/main.cpp
+iostream
+-
+vector
+-
+string
+-
+student.hpp
+C:/Users/user/Desktop/PJC/Praca_Domowa6/student.hpp
+loud_int.hpp
+C:/Users/user/Desktop/PJC/Praca_Domowa6/loud_int.hpp
+
+C:/Users/user/Desktop/PJC/Praca_Domowa6/student.hpp
+algorithm
+-
+

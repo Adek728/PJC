@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/PJC/Praca_Domowa5/card.hpp
+string
+-
+vector
+-
+
+C:/Users/user/Desktop/PJC/Praca_Domowa5/main.cpp
+iostream
+-
+card.hpp
+C:/Users/user/Desktop/PJC/Praca_Domowa5/card.hpp
+operations.hpp
+C:/Users/user/Desktop/PJC/Praca_Domowa5/operations.hpp
+vector
+-
+cstdlib
+-
+
+C:/Users/user/Desktop/PJC/Praca_Domowa5/operations.hpp
+algorithm
+-
+

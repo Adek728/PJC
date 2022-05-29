@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/PJC/Praca_Domowa6/cmake-build-debug/CMakeFiles/Praca_Domowa6.dir
+C:/Users/user/Desktop/PJC/Praca_Domowa6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/PJC/Praca_Domowa6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
